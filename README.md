@@ -2,6 +2,8 @@
 
 >This project is a mobile application prototype for a cryptocurrency platform. Built with React Native and Expo, it offers a user-friendly interface for managing your digital assets, tracking your portfolio, and engaging with the market.
 
+>Special thanks for design to https://www.figma.com/community/file/987218729121549341 
+
 Features
 - Login Screen: A secure login system for user authentication
 - Home Screen: An overview of the user's account, including balances and recent activity
